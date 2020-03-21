@@ -1,2 +1,8 @@
 venv/
 .vscode/
+
+# PyInstaller
+build/
+__pycache__/
+dist/
+*.spec
